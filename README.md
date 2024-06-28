@@ -1,8 +1,9 @@
 E-Commerce Website
 An E-Commerce Website made with the React.js framework.
 
-Demo
-Check out the live demo here.
+**Demo**
+Check out the live demo here by clicking the link below.
+https://reactjs-e-commerce-lemon.vercel.app/
 
 Features
 Easy to integrate with Backend
