@@ -44,16 +44,16 @@ Open http://localhost:3000 to view it in your browser.
 **Contributing**
 Contributions are always welcome! Just raise an issue, and we will discuss it.
 
-**Fork the Project**
+**Fork the Project**:
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-**Contact**
-**Sathyabhushan - sathyabhushanmn@gmail.com**
+**Contact**:
+**Sathyabhushan M N** - sathyabhushanmn@gmail.com
 
 **Project Link: https://github.com/SATHYABHUSHAN/reactjs-e-commerce**
 
-**Feedback**
+**Feedback**,
 If you have any feedback, please reach out to me at sathyabhushanmn@gmail.com.
